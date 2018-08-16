@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [31/Jul/2018:16:43:11 +0800] "GET / HTTP/1.1" 200 52 http-bio-8091-exec-1 1000
+0:0:0:0:0:0:0:1 - - [31/Jul/2018:16:43:11 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8091-exec-3 20
+0:0:0:0:0:0:0:1 - - [31/Jul/2018:16:50:22 +0800] "GET / HTTP/1.1" 200 52 http-bio-8091-exec-1 122
+0:0:0:0:0:0:0:1 - - [31/Jul/2018:17:07:13 +0800] "GET /web/itemcat/all?callback=category.getDataService HTTP/1.0" 200 26200 http-bio-8091-exec-3 50
+0:0:0:0:0:0:0:1 - - [31/Jul/2018:17:19:09 +0800] "GET /web/itemcat/all?callback=category.getDataService HTTP/1.0" 200 26200 http-bio-8091-exec-1 1502
