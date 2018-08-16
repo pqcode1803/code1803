@@ -1,0 +1,18 @@
+server:
+  port: 8070
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/jtdb1803
+    username: root
+    password: root
+
+mybatis:
+  mapUnderscoreToCamelCase: true
+  typeAliasesPackage: com.jt.pojo
+  mapperLocations: classpath:mappers/*.xml
+  
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: true
