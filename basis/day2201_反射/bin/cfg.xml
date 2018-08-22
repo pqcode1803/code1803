@@ -1,0 +1,15 @@
+<cfg>
+	<class name="tedu.day2201.A" method="a" />
+	<class name="tedu.day2201.D" method="d" />
+	<class name="tedu.day2201.D" method="d" />
+	<class name="tedu.day2201.A" method="a" />
+	<class name="tedu.day2201.D" method="d" />
+	<class name="tedu.day2201.D" method="d" />
+	<class name="tedu.day2201.C" method="c" />
+	<class name="tedu.day2201.A" method="a" />
+	<class name="tedu.day2201.A" method="a" />
+	<class name="tedu.day2201.B" method="b" />
+	<class name="tedu.day2201.B" method="b" />
+	<class name="tedu.day2201.B" method="b" />
+	<class name="tedu.day2201.B" method="b" />
+</cfg>
